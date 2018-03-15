@@ -1,3 +1,1 @@
-this is the first programme
-
-this is the second programme
+print("li ge fei)
